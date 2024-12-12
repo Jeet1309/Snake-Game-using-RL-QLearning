@@ -105,12 +105,10 @@ The AI agent was trained using Deep Q-Learning, and its performance improved ove
    - The following plots show the agent's scores and mean scores over a series of games.
 
    ### Short-term Training:
-   ![Short-term Training Results](![Figure_1](https://github.com/user-attachments/assets/da31c18d-639d-4a94-a0be-61fe50f55e75)
-)
+   ![Short-term Training Results](Figure_1.png)
 
    ### Long-term Training:
-   ![Long-term Training Results](![Figure_longterm](https://github.com/user-attachments/assets/4592bee0-3e25-4848-adc4-5f96cdcc1e29)
-)
+   ![Long-term Training Results](Figure_longterm.png)
 
 2. **Observations**:
    - The agent begins with random actions and initially achieves low scores.
